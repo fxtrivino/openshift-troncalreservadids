@@ -1,1 +1,1 @@
-# openshift-openshift-troncalreservadids
+# openshift-troncalreservadids
